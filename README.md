@@ -1,4 +1,7 @@
 # 🛡️ Microsoft Sentinel SOC Analyst Lab
+
+Microsoft Sentinel is Microsoft's cloud-native Security Information and Event Management (SIEM) and Security Orchestration, Automation and Response (SOAR) platform. Throughout this portfolio, I explore how security events are collected, analyzed, detected, and investigated using Microsoft Sentinel and Microsoft Defender.
+
 ## 📖 Overview
 
 This repository documents my hands-on learning journey with **Microsoft Sentinel** and the **Microsoft Defender Portal** through Microsoft Learn and Microsoft Sentinel Ninja training.
@@ -19,36 +22,30 @@ The goal of this project is to demonstrate practical experience with Microsoft S
 
 ---
 
+
 ## Skills Demonstrated
 
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Azure Log Analytics
-- Kusto Query Language (KQL)
+- SIEM Operations
 - Detection Engineering
+- KQL Query Development
 - Scheduled Analytics Rules
 - Near Real-Time (NRT) Analytics Rules
 - Incident Investigation
 - Incident Triage & Management
 - MITRE ATT&CK Mapping
 - Azure Activity Monitoring
-- Security Operations (SOC)
+- Security Operations Centre (SOC) Workflows
 
 ---
 
 ## Project Highlights
 
-✔ Developed KQL queries to detect Azure administrative activities.
-
-✔ Built Scheduled and Near Real-Time (NRT) Analytics Rules.
-
-✔ Generated and investigated incidents within Microsoft Defender.
-
-✔ Applied MITRE ATT&CK tactics and techniques during rule creation.
-
-✔ Practiced SOC incident triage, classification, assignment, and management.
-
-✔ Performed investigations using Azure Log Analytics and Microsoft Defender XDR.
+- Developed KQL queries to detect Azure administrative activities.
+- Built Scheduled and Near Real-Time (NRT) Analytics Rules.
+- Generated and investigated security incidents within Microsoft Defender.
+- Applied MITRE ATT&CK tactics and techniques during rule creation.
+- Practiced SOC incident assignment, classification, tagging, and investigation.
+- Worked with Azure Log Analytics to analyse security telemetry.
 
 ---
 
@@ -90,13 +87,21 @@ Incident Management
 ```
 SOC-Analyst-Lab-Microsoft-Sentinel
 │
-├── Module-01-Introduction
-├── Module-02-Scheduled-Analytics-Rule
-├── Module-03-Custom-Scheduled-Rule
-├── Module-04-NRT-Analytics-Rule
-├── Module-05-Incident-Triage
-└── README.md
+├── README.md
+├── Module-01-Scheduled-Analytics-Rule
+├── Module-02-Custom-Scheduled-Rule
+├── Module-03-NRT-Analytics-Rule
+├── Module-04-Incident-Triage
+└── LICENSE
 ```
+
+Each module contains:
+- Objectives
+- Lab implementation
+- KQL queries (where applicable)
+- Configuration details
+- Screenshots
+- Key learning outcomes
 
 ---
 
