@@ -88,10 +88,10 @@ Incident Management
 SOC-Analyst-Lab-Microsoft-Sentinel
 │
 ├── README.md
-├── Module-01-Scheduled-Analytics-Rule
-├── Module-02-Custom-Scheduled-Rule
-├── Module-03-NRT-Analytics-Rule
-├── Module-04-Incident-Triage
+├── Module-02-Scheduled-Analytics-Rule
+├── Module-03-Custom-Scheduled-Rule
+├── Module-04-NRT-Analytics-Rule
+├── Module-05-Incident-Triage
 └── LICENSE
 ```
 
